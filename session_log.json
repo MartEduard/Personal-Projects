@@ -1,0 +1,13 @@
+
+{"username": "Eduard", "action": "connected", "timestamp": "2025-01-10 00:25:08", "details": {"address": ["10.2.1.101", 65356]}}
+{"username": "Eduard", "action": "subscribed", "timestamp": "2025-01-10 00:25:08", "details": {"topic": "Last_Will_Topic/LWTopic", "qos": 2}}
+{"username": "Eduard", "action": "subscribed", "timestamp": "2025-01-10 00:25:08", "details": {"topic": "Car/Dashboard", "qos": 1}}
+{"username": "Eduard", "action": "subscribed", "timestamp": "2025-01-10 00:25:08", "details": {"topic": "LivingRoom/LEDs/Brightness", "qos": 2}}
+{"username": "Eduard", "action": "subscribed", "timestamp": "2025-01-10 00:25:08", "details": {"topic": "House/TermicSystem/UpstairsBedroom1/Floor", "qos": 2}}
+{"username": "Serban-Ilie", "action": "connected", "timestamp": "2025-01-10 00:25:29", "details": {"address": ["10.2.1.101", 65360]}}
+{"username": "Serban-Ilie", "action": "subscribed", "timestamp": "2025-01-10 00:25:29", "details": {"topic": "Last_Will_Topic/LWTopic", "qos": 2}}
+{"username": "Serban-Ilie", "action": "subscribed", "timestamp": "2025-01-10 00:25:29", "details": {"topic": "Client1/house/solar_panels", "qos": 2}}
+{"username": "Serban-Ilie", "action": "subscribed", "timestamp": "2025-01-10 00:25:29", "details": {"topic": "Client1/house/roof", "qos": 1}}
+{"username": "Serban-Ilie", "action": "subscribed", "timestamp": "2025-01-10 00:25:29", "details": {"topic": "Client1/house/kitchen/stove", "qos": 0}}
+{"username": "Eduard", "action": "disconnected", "timestamp": "2025-01-10 00:25:33", "details": {}}
+{"username": "Serban-Ilie", "action": "disconnected", "timestamp": "2025-01-10 00:25:34", "details": {}}
